@@ -1,4 +1,4 @@
-# Academic Application Skills
+# Academic Application Skills: 用于撰写学术申请信的技能包
 
 Portable agent skills for academic recommendation letters, advisor research, and PhD/RA/MSc outreach.
 
