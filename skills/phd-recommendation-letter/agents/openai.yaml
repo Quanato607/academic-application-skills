@@ -1,0 +1,4 @@
+interface:
+  display_name: "PhD Recommendation Letter"
+  short_description: "Draft and audit evidence-led PhD recommendation letters"
+  default_prompt: "Use $phd-recommendation-letter to revise this PhD recommendation letter from my CV and recommender context."

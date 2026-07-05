@@ -1,0 +1,4 @@
+interface:
+  display_name: "PhD Advisor Outreach"
+  short_description: "Research advisors and draft targeted PhD or RA outreach"
+  default_prompt: "Use $phd-advisor-outreach to research this advisor and draft a targeted PhD or RA outreach email."
